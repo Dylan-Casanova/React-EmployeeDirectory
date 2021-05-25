@@ -1,0 +1,13 @@
+[
+    { "name": "Dylan Casanova", "phone": "210-577-9853", "email": "DylanCasanova@email.com", "dob": "05-11-1996" },
+    { "name": "Katie Gentel", "phone": "210-345-2689", "email": "KatieGentel@email.com", "dob": "08-24-1997" },
+    { "name": "Natalia Arias", "phone": "210-098-5423", "email": "NataliaArias@email.com", "dob": "05-17-1968" },
+    { "name": "Jero Boam", "phone": "210-765-3421", "email": "JeroBoam@email.com", "dob": "10-03-1995" },
+    { "name": "Cristiano Ronaldo", "phone": "765-524-0978", "email": "CristianoRonaldo@email.com", "dob": "02-13-1988" },
+    { "name": "Falcao Garcia", "phone": "231-432-0076", "email": "FalcaoGarcia@email.com", "dob": "06-01-1990" },
+    { "name": "Leo Messi", "phone": "787-935-5562", "email": "LeoMessi@email.com", "dob": "01-01-2000" },
+    { "name": "Juan Gonzales", "phone": "210-756-9853", "email": "JuanGonzales@email.com", "dob": "05-15-1996"},
+    { "name": "Jayson Trump", "phone": "210-562-2689", "email": "JaysonTrump@email.com", "dob": "08-29-1997" },
+    { "name": "Silvia Brown", "phone": "210-098-5423", "email": "SilviaBrown@email.com", "dob": "05-27-1968"},
+    { "name": "Walter White", "phone": "210-123-3421", "email": "TheWalterWhite@email.com", "dob": "10-03-1995"}
+  ]

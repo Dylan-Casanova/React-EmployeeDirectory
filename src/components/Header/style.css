@@ -1,0 +1,9 @@
+header {
+    background-image:url(../../assets/directory.png) ;
+    color: white;
+    border-bottom: 10px solid #004E7C;
+    border-top: 10px solid #004E7C ;
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
