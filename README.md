@@ -20,7 +20,7 @@ The table was created with Ag-Grid, which made table creating process smooth and
 <li> Start enjoying this great app<li> </ul>
 
 ## Deployed app
-<a href=""> click here </a>
+<a href="https://dylan-casanova.github.io/reactUnit-EmployeeDirectory/"> click here </a>
 
 ## Contact information 
 
