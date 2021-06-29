@@ -1,7 +1,9 @@
 ## Employee-Directory
+## Deployed app
+<a href="https://dylan-casanova.github.io/reactUnit-EmployeeDirectory/"> click here </a>
 
 Employee-Directory is an application that allows users to look up any employee on the directory.<br>
-This can be done by typing the employees name on the search bar. users can also filter employees by clicking next to the any column name.<br>
+This can be done by typing the employees name on the search bar. Users can also filter employees by clicking next to the any column name.<br>
 
 This is what the initial screen looks like<br>
 ![initialScreen](./src/assets/1.png) <br>
@@ -19,8 +21,6 @@ The table was created with Ag-Grid, which made table creating process smooth and
 <li>Please make sure you are on the directory for the app and then from terminal run "npm start" to start the application.</li>
 <li> Start enjoying this great app<li> </ul>
 
-## Deployed app
-<a href="https://dylan-casanova.github.io/reactUnit-EmployeeDirectory/"> click here </a>
 
 ## Contact information 
 
