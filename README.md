@@ -3,7 +3,7 @@
 <a href="https://dylan-casanova.github.io/reactUnit-EmployeeDirectory/"> Deployed app</a> <--- click here for the live app
 
 Employee-Directory is an application that allows users to look up any employee on the directory.<br>
-This can be done by typing the employees name on the search bar. Users can also filter employees by clicking next to the any column name.<br>
+This can be done by typing the employees name on the search bar. Users can also filter employees by clicking next to any column name.<br>
 
 This is what the initial screen looks like<br>
 ![initialScreen](./src/assets/1.png) <br>
